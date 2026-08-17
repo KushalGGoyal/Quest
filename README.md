@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/KushalGGoyal/Quest-/tree/master/0125-valid-palindrome) |
 | [0466-count-the-repetitions](https://github.com/KushalGGoyal/Quest-/tree/master/0466-count-the-repetitions) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/KushalGGoyal/Quest-/tree/master/0125-valid-palindrome) |
 | [0466-count-the-repetitions](https://github.com/KushalGGoyal/Quest-/tree/master/0466-count-the-repetitions) |
 ## Dynamic Programming
 |  |
