@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KushalGGoyal/Quest-/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KushalGGoyal/Quest-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/KushalGGoyal/Quest-/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/KushalGGoyal/Quest-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KushalGGoyal/Quest-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0466-count-the-repetitions](https://github.com/KushalGGoyal/Quest-/tree/master/0466-count-the-repetitions) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KushalGGoyal/Quest-/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/KushalGGoyal/Quest-/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KushalGGoyal/Quest-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/KushalGGoyal/Quest-/tree/master/0204-count-primes) |
 ## Math
