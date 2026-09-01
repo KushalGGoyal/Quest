@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KushalGGoyal/Quest-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/KushalGGoyal/Quest-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/KushalGGoyal/Quest-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/KushalGGoyal/Quest-/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -89,8 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KushalGGoyal/Quest-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/KushalGGoyal/Quest-/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KushalGGoyal/Quest-/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/KushalGGoyal/Quest-/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
