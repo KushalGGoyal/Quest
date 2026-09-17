@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KushalGGoyal/Quest-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/KushalGGoyal/Quest-/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/KushalGGoyal/Quest-/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KushalGGoyal/Quest-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KushalGGoyal/Quest-/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KushalGGoyal/Quest-/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
